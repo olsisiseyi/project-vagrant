@@ -43,6 +43,6 @@ How can Vagrant be installed and configured on different operating systems?
 
 ## Installation Outputs
 
-[Vagrant Installation Confirmation 1](./Images/Vagrant%20Installation%20Confirmation%201.png)
+[Vagrant-Installation Confirmation-1](./Images/Vagrant%20Installation%20Confirmation%201.png)
 
-[Vagrant Installation Confirmation 1](./Images/Vagrant.png)
+[Vagrant-Installation Confirmation-2](./Images/Vagrant.png)
