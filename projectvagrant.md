@@ -25,4 +25,17 @@ As a DevOps Engineer, if I am responsible for setting up development environment
 ## What are the key components and concepts in Vagrant, such as Vagrantfiles and providers?
 
 Vagrantfiles
-When Vagrant is installed we can write the configuration of all the Vms we want to set up in a file called Vagrantfile using a Vagrant command known as `vagrant up`
+- When Vagrant is installed we can write the configuration of all the Vms we want to set up in a file called Vagrantfile using a Vagrant command known as `vagrant up`
+
+- All configurations and softyware details can be added in Vagrantfile
+
+## Providers
+After installing Vagrant, we can run a command known as `vagrant init` which will automatically create Vagrantfile and then specify a provider (V) we want to use. *See cloud based examples listed above earlier*
+
+## Vagrant Setup and Configuration:
+How can Vagrant be installed and configured on different operating systems?
+
+- On the your host machine, visit [Hashicorp.com](https://developer.hashicorp.com/vagrant/downloads) to download Vagrant for Windows or Mac. It is advisable to download I686 because it is compatible with the 64-bit of Windows OS
+
+- Follow all the installation commands
+
