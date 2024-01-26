@@ -20,4 +20,9 @@ Hypervisor allocates resources such as CPU, memory etc when a VM is installed on
 
 ## What is Vagrant, and how does it simplify environment provisioning and management for DevOps teams?
 
-As a DevOps Engineer, if I am responsible for setting up development environment, testing environment etc, this would require different VMs and this is where Vagrant comes in handy. As defined by Hashicorp, it is a tool for building **complete** development environment in a single workflow. With Vagrant, there's no need for manual confuguration which is sometimes error prone.
+As a DevOps Engineer, if I am responsible for setting up development environment, testing environment, production environment etc, this would require different VMs and this is where Vagrant comes in handy. As defined by Hashicorp, it is a tool for building **complete** development environment in a single workflow. With Vagrant, there's no need for manual confuguration which is sometimes error prone.
+
+## What are the key components and concepts in Vagrant, such as Vagrantfiles and providers?
+
+Vagrantfiles
+When Vagrant is installed we can write the configuration of all the Vms we want to set up in a file called Vagrantfile using a Vagrant command known as `vagrant up`
