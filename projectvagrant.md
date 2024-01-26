@@ -46,3 +46,7 @@ How can Vagrant be installed and configured on different operating systems?
 [Vagrant-output](./Images/Vagrant-output.png)
 
 [Vagrant-output2](./Images/Vagrant-output2.png)
+
+## Initialize a Project
+
+[Vagrant-init-output](./Images/Vagrant-init-output.png)
