@@ -18,6 +18,6 @@ Hypervisor allocates resources such as CPU, memory etc when a VM is installed on
 - Google Cloud Compute Engine
 - Microsoft Azure
 
-## Vagrant
+## What is Vagrant, and how does it simplify environment provisioning and management for DevOps teams?
 
 As a DevOps Engineer, if I am responsible for setting up development environment, testing environment etc, this would require different VMs and this is where Vagrant comes in handy. As defined by Hashicorp, it is a tool for building **complete** development environment in a single workflow. With Vagrant, there's no need for manual confuguration which is sometimes error prone.
