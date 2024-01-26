@@ -44,3 +44,5 @@ How can Vagrant be installed and configured on different operating systems?
 ## Installation Outputs
 
 [Vagrant-output](./Images/Vagrant-output.png)
+
+[Vagrant-output2](./Images/Vagrant-output2.png)
