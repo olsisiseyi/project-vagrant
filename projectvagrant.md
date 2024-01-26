@@ -37,5 +37,12 @@ How can Vagrant be installed and configured on different operating systems?
 
 - On the your host machine, visit [Hashicorp.com](https://developer.hashicorp.com/vagrant/downloads) to download Vagrant for Windows or Mac. It is advisable to download I686 because it is compatible with the 64-bit of Windows OS
 
-- Follow all the installation commands
+- Follow all the installation commands to install it 
 
+- Check on on Windows Powershell to confirm that it has installed by typing the command `vagrant` or `vagrant --version` 
+
+## Installation Outputs
+
+[Vagrant Installation Confirmation 1](./Images/Vagrant%20Installation%20Confirmation%201.png)
+
+[Vagrant Installation Confirmation 1](./Images/Vagrant.png)
